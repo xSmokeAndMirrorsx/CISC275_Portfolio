@@ -1,2 +1,12 @@
 # CISC275_Portfolio
-Portfolio with links to things I've worked on and skills I've developed
+
+Name: Connor Creavin
+
+Email: ccreavin@udel.edu
+
+Link: https://github.com/xSmokeAndMirrorsx/CISC275_Portfolio 
+
+# ChangeLog
+
+# TODO
+
