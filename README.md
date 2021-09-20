@@ -10,9 +10,10 @@ Link: https://github.com/xSmokeAndMirrorsx/CISC275_Portfolio
 
 * The source code for each "Prototype Website" can be found by clicking the link attached to the respective website's "Codename". 
 * Each website is focused on challenging and growing a specific set of skills (HTML, Typescipt, Bootstrap, CSS, React, etc.)
-* Changelog updates are color-coded to the projects they are associated with, projects are referenced by their "Codename". Here is the key:
+* Changelog updates are color-coded to the projects they are associated with, projects are referenced by their "Codename".
 
 ```diff
+Changelog Color-Key:
 - Starter_Pack: Red Changelog Updates
 ```
 
