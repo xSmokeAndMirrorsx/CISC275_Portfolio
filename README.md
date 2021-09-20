@@ -6,7 +6,7 @@ Email: ccreavin@udel.edu
 
 Link: https://github.com/xSmokeAndMirrorsx/CISC275_Portfolio 
 
-### General Info
+## General Info
 
 * The source code for each "Prototype Website" can be found by clicking the link attached to the respective website's "Codename". 
 
