@@ -13,7 +13,7 @@ Link: https://github.com/xSmokeAndMirrorsx/CISC275_Portfolio
 * Changelog updates are color-coded to the projects they are associated with, projects are referenced by their "Codename". Here is the key:
 
 ```diff
-  - Starter_Pack: Red Changelog Updates
+- Starter_Pack: Red Changelog Updates
 ```
 
 # Prototype Websites
