@@ -6,7 +6,11 @@ Email: ccreavin@udel.edu
 
 Link: https://github.com/xSmokeAndMirrorsx/CISC275_Portfolio 
 
-Info: The source code for each "Prototype Website" can be founc by clicking the link attached to the respective website's "Codename". Additionally each website is focused on challenging and growing a specific set of skills (HTML, Typescipt, Bootstrap, CSS, React, etc.)
+Info: 
+
+- The source code for each "Prototype Website" can be found by clicking the link attached to the respective website's "Codename". 
+
+- Each website is focused on challenging and growing a specific set of skills (HTML, Typescipt, Bootstrap, CSS, React, etc.)
 
 # Prototype Websites
 
