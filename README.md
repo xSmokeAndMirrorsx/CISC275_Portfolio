@@ -12,9 +12,9 @@ Link: https://github.com/xSmokeAndMirrorsx/CISC275_Portfolio
 * Each website is focused on challenging and growing a specific set of skills (HTML, Typescipt, Bootstrap, CSS, React, etc.)
 * Changelog updates are color-coded to the projects they are associated with, projects are referenced by their "Codename". Here is the key:
 
-'''diff
-- Starter_Pack: Red Changelog Updates
-'''
+```diff
+  - Starter_Pack: Red Changelog Updates
+```
 
 # Prototype Websites
 
