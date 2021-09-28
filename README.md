@@ -23,12 +23,12 @@ Changelog Color-Key:
 
 * ***Codename [Starter_Pack](https://github.com/xSmokeAndMirrorsx/WebDevStarterPack)***: Not meant to be a very functional website. Focused on mastering basic website structure (HTML), styling (CSS), and functionality (Javascript).
    
-   - ****Credit To My Sources****
+     *****Credit To My Sources*****
    - I used Dr. Barts [my-275-scratch-site-011](https://github.com/acbart/my-275-scratch-site-011) as a kind of skeleton for this project and built from there.
 
 * ***Codename [Storebrand_Facebook](https://github.com/xSmokeAndMirrorsx/Read_It)***: Used to build my skills in Javascipt, PHP, and SQL. This site focueses on storing and organizing user input to emulate a social media site. It is very bare bones and pretty currently only has posting and liking capabiliies. 
 
-   - ****Credit Where Credit is Due****
+     *****Credit Where Credit is Due*****
    - I used Andy Novocin's [heroku-play](https://github.com/AndyNovo/heroku-play) site as a starting point for this project and built from there. 
 
 # ChangeLog
