@@ -16,6 +16,7 @@ Link: https://github.com/xSmokeAndMirrorsx/CISC275_Portfolio
 Changelog Color-Key:
 
 - Starter_Pack: Red Changelog Updates
++ Boot_Camp: Green Changelog Updates
 # Storebrand_Facebook: Grey Changelog Updates
 ```
 
@@ -24,6 +25,10 @@ Changelog Color-Key:
 * ***Codename [Starter_Pack](https://github.com/xSmokeAndMirrorsx/WebDevStarterPack)***: Not meant to be a very functional website. Focused on mastering basic website structure (HTML), styling (CSS), and functionality (Javascript).
    
    - I used Dr. Barts [my-275-scratch-site-011](https://github.com/acbart/my-275-scratch-site-011) as a kind of skeleton for this project and built from there.
+
+* ***Codename [Boot_Camp](https://github.com/xSmokeAndMirrorsx/BootCamp)***: Designed to build my skills in using bootstrap effectivley and help build a scalable, compfortable user interface. 
+
+   - I used BlondieBits [CSS in 5](https://github.com/blondiebits/code-in-5/tree/master/CSS%20in%205) as a template for my code and followed [her tutorial](https://www.youtube.com/watch?v=yalxT0PEx8c&ab_channel=blondiebytes) to get a good starting point on my bootstrap website.
 
 * ***Codename [Storebrand_Facebook](https://github.com/xSmokeAndMirrorsx/Read_It)***: Used to build my skills in Javascipt, PHP, and SQL. This site focueses on storing and organizing user input to emulate a social media site. It is very bare bones and pretty currently only has posting and liking capabiliies. 
 
@@ -39,10 +44,11 @@ Changelog Color-Key:
 - Added additional structure and styling using [this](https://www.w3schools.com/css/css_examples.asp) tutorial as a reference.
 
 # Updated the formatting and made comments visable 
+
++ Followed a tutorial by BlondieBits to start off learning a bit of boostrap and get a good foundation for this project
 ```
 # TODO
 
-* Create a website that utilizes Bootstrap
 * Create a website that utilizes React
 * Create a website that utilizes Typescript
 * Improve on "Starter_Pack" website to add additional features
