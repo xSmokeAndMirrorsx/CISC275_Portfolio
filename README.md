@@ -47,7 +47,7 @@ Changelog Color-Key:
 
 # Updated the formatting and made comments visable 
 
-+ Followed a tutorial by BlondieBits to start off learning a bit of boostrap and get a good foundation for this project
++ Followed a tutorial by BlondieBits to start off learning a bit of boostrap (link included below project)
 
 + Followed another more in depth tutorial by DrewRyan to get a better handle on bootstrap (link included below project)
 ```
