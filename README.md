@@ -34,7 +34,8 @@ Changelog Color-Key:
 # ChangeLog
 
 ```diff
-- Created a basic html and css website, using Dr. Barts scratch site as a base, to demonstrate and improve upon my skill in laying out a website as well as using an effecient nomenclature method (properly using classes and IDs and such for styling and future improvement easy). 
+- Created a basic html and css website, using Dr. Barts scratch site as a base, to demonstrate and improve upon my skill in laying out a website as well as using an effecient
+nomenclature method (properly using classes and IDs and such for styling and future improvement easy). 
 
 - Added additional structure and styling using [this](https://www.w3schools.com/css/css_examples.asp) tutorial as a reference.
 
