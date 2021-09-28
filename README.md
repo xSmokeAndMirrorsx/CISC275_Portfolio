@@ -37,15 +37,17 @@ Changelog Color-Key:
 # ChangeLog
 
 ```diff
-- Created a basic html and css website, using Dr. Barts scratch site as a base, to demonstrate and improve upon my skill in laying 
--     out a website as well as using an effecient nomenclature method (properly using classes and IDs and such for styling and 
--     future improvement easy). 
+- Created a basic html and css website, using Dr. Barts scratch site as a base, to demonstrate and improve 
+-     upon my skill in laying out a website as well as using an effecient nomenclature method (properly 
+-     using classes and IDs and such for styling and future improvement easy). 
 
 - Added additional structure and styling using [this](https://www.w3schools.com/css/css_examples.asp) tutorial as a reference.
 
 # Updated the formatting and made comments visable 
 
 + Followed a tutorial by BlondieBits to start off learning a bit of boostrap and get a good foundation for this project
+
++ Followed another more in depth [tutorial](https://www.youtube.com/watch?v=9cKsq14Kfsw&ab_channel=DrewRyan) to get a better handle on bootstrap 
 ```
 # TODO
 
