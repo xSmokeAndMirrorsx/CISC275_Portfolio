@@ -25,10 +25,12 @@ Changelog Color-Key:
 * ***Codename [Starter_Pack](https://github.com/xSmokeAndMirrorsx/WebDevStarterPack)***: Not meant to be a very functional website. Focused on mastering basic website structure (HTML), styling (CSS), and functionality (Javascript).
    
    - I used Dr. Barts [my-275-scratch-site-011](https://github.com/acbart/my-275-scratch-site-011) as a kind of skeleton for this project and built from there.
+   - Added additional structure and styling using [this](https://www.w3schools.com/css/css_examples.asp) tutorial as a reference.
 
 * ***Codename [Boot_Camp](https://github.com/xSmokeAndMirrorsx/BootCamp)***: Designed to build my skills in using bootstrap effectivley and help build a scalable, compfortable user interface. 
 
    - I used BlondieBits [CSS in 5](https://github.com/blondiebits/code-in-5/tree/master/CSS%20in%205) as a template for my code and followed [her tutorial](https://www.youtube.com/watch?v=yalxT0PEx8c&ab_channel=blondiebytes) to get a good starting point on my bootstrap website.
+   - Followed another more in depth [tutorial](https://www.youtube.com/watch?v=9cKsq14Kfsw&ab_channel=DrewRyan) to get a better handle on bootstrap
 
 * ***Codename [Storebrand_Facebook](https://github.com/xSmokeAndMirrorsx/Read_It)***: Used to build my skills in Javascipt, PHP, and SQL. This site focueses on storing and organizing user input to emulate a social media site. It is very bare bones and pretty currently only has posting and liking capabiliies. 
 
@@ -41,13 +43,13 @@ Changelog Color-Key:
 -     upon my skill in laying out a website as well as using an effecient nomenclature method (properly 
 -     using classes and IDs and such for styling and future improvement easy). 
 
-- Added additional structure and styling using [this](https://www.w3schools.com/css/css_examples.asp) tutorial as a reference.
+- Added additional structure and styling using w3schools tutorial as a reference. (link included below project)
 
 # Updated the formatting and made comments visable 
 
 + Followed a tutorial by BlondieBits to start off learning a bit of boostrap and get a good foundation for this project
 
-+ Followed another more in depth [tutorial](https://www.youtube.com/watch?v=9cKsq14Kfsw&ab_channel=DrewRyan) to get a better handle on bootstrap 
++ Followed another more in depth tutorial by DrewRyan to get a better handle on bootstrap (link included below project)
 ```
 # TODO
 
