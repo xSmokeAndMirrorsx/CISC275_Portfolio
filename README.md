@@ -67,7 +67,7 @@ Changelog Color-Key:
 ```
 # TODO
 
-* Finish the website that utilizes React
+* Finish "EqualAndOppositeREACTion" by hashing out all the minor issues
 * Create a website that utilizes Typescript
 * Improve on "Starter_Pack" website to add additional features
 * Get comments functionality on "Storebrand_Facebook"
